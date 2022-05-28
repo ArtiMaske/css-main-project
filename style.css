@@ -102,12 +102,12 @@ a{
     display: flex;
     justify-content: center;
     align-items: center;
+    
   }
   
   .hero-img {
     max-width: 80%;
-    z-index: 1;
-  }
+    }
 
 
 /*----- service section----*/
